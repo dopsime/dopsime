@@ -4,8 +4,7 @@
 
 ## 📫 Свяжитесь со мной:
 - Email: gleb.suv.66@gmail.com
-- Вконтакте: https://vk.com/dopsime
-- Telegram: https://t.me/dopsime
+- Telegram: [@dopsime](https://t.me/dopsime)
 
 ## 🛠 Мои технологии и инструменты:
 - Языки программирования: 
