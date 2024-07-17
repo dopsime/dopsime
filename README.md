@@ -1,6 +1,6 @@
 # Привет! 👋
 
-Меня зовут Глеб и я начинающий C# разработчик на платформе .NET, также занимаюсь разработкой игр на Unity.
+Меня зовут [Глеб](https://github.com/dopsime/About-me.git) и я начинающий C# разработчик на платформе .NET, также занимаюсь разработкой игр на Unity.
 
 ## 📫 Свяжитесь со мной:
 - Email: gleb.suv.66@gmail.com
@@ -21,11 +21,8 @@
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=dopsime&layout=compact&theme=radical)
 
 ## 🌟 Проекты:
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) [Calculator] https://github.com/dopsime/Calculator.git - консольное приложение-калькулятор
-
-## 💬 О себе:
-- [About-me] https://github.com/dopsime/About-me.git
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) [Calculator](https://github.com/dopsime/Calculator.git) - консольное приложение-калькулятор.
 
 
 ## 🔧 Проекты на Unity:
-- [Пока что здесь пустовато.]()
+- Пока что здесь пустовато.
