@@ -2,22 +2,31 @@
 
 Меня зовут Глеб и я начинающий C# разработчик на платформе .NET, также занимаюсь разработкой игр на Unity.
 
-## 📫 Свяжись со мной:
+## 📫 Свяжитесь со мной:
 - Email: gleb.suv.66@gmail.com
-- Вконтакте: [https://vk.com/dopsime]
-- Telegram: [[ссылка на профиль](https://t.me/dopsime)]
+- Вконтакте: https://vk.com/dopsime
+- Telegram: https://t.me/dopsime
 
 ## 🛠 Мои технологии и инструменты:
-- Языки программирования: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- Фреймворки и библиотеки: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black), ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+- Языки программирования: 
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Базы данных: 
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- Фреймворки и библиотеки:
+  ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
 ## 📈 Статистика:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dopsime&show_icons=true&theme=radical)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=dopsime&layout=compact&theme=radical)
 
 ## 🌟 Проекты:
-- [Проект 1](ссылка) - краткое описание проекта
-- [Проект 2](ссылка) - краткое описание проекта
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) [Calculator] https://github.com/dopsime/Calculator.git - консольное приложение-калькулятор
 
 ## 💬 О себе:
-Краткое описание о себе, своих увлечениях, целях и интересах.
+- [About-me] https://github.com/dopsime/About-me.git
 
+
+## 🔧 Проекты на Unity:
+- [Пока что здесь пустовато.]()
